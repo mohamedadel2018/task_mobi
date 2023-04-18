@@ -1,4 +1,5 @@
 <h2> To run project:  </h2> 
+<h3> Project is SPA </h3>
   command in terminal <br>
     1-composer install <br>
     2-cp .env.example .env <br>
